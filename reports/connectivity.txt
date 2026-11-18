@@ -1,0 +1,17 @@
+Original TMDS / DDC / CEC track geometry preserved: 168 tracks/arcs.
+Copper layers: 4
+C1 100nF / 16V: 1=/ARD_5V, 2=GND
+C2 10uF / 16V: 1=/ARD_5V, 2=GND
+D1 LED GREEN: 1=Net-(D1-K), 2=/5Vsw
+D2 PMEG2010EA: 1=/5Vout, 2=/5Vsw
+D3 1N4148W: 1=/ARD_5V, 2=/COIL_LOW
+J1 HDMI_IN: 1=/D2+, 2=GND, 3=/D2-, 4=/D1+, 5=GND, 6=/D1-, 7=/D0+, 8=GND, 9=/D0-, 10=/CK+, 11=GND, 12=/CK-, 13=/CEC, 14=unconnected-(J1-UTILITY-Pad14), 15=/SCL, 16=/SDA, 17=GND, 18=/5Vin, 19=/HPDin, SH=GND, SH=GND, SH=GND, SH=GND
+J2 HDMI_OUT: 1=/D2+, 2=GND, 3=/D2-, 4=/D1+, 5=GND, 6=/D1-, 7=/D0+, 8=GND, 9=/D0-, 10=/CK+, 11=GND, 12=/CK-, 13=/CEC, 14=unconnected-(J2-UTILITY-Pad14), 15=/SCL, 16=/SDA, 17=GND, 18=/5Vout, 19=/HPDout, SH=GND, SH=GND, SH=GND, SH=GND
+J3 ARDUINO CONTROL: 1=/ARD_5V, 2=/CTRL, 3=GND
+K1 G5V-2-H1 DC5: 1=/ARD_5V, 4=/HPDin, 6=unconnected-(K1-Pad6), 8=/HPDout, 9=/5Vsw, 11=unconnected-(K1-Pad11), 13=/5Vin, 16=/COIL_LOW
+MH1 MountingHole_3.2mm_M3: =
+MH2 MountingHole_3.2mm_M3: =
+Q1 AO3400A: 1=/GATE, 2=GND, 3=/COIL_LOW
+R1 1k5: 1=Net-(D1-K), 2=GND
+R2 1k: 1=/CTRL, 2=/GATE
+R3 100k: 1=/GATE, 2=GND

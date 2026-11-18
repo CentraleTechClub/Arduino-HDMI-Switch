@@ -1,0 +1,14 @@
+Reference,Value,Footprint
+K1,G5V-2-H1 DC5,Relay_THT:Relay_DPDT_Omron_G5V-2
+Q1,AO3400A,Package_TO_SOT_SMD:SOT-23
+R2,1k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+R3,100k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+D3,1N4148W,Diode_SMD:D_SOD-123
+J3,ARDUINO CONTROL,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical
+C1,100nF / 16V,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+C2,10uF / 16V,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+D2,PMEG2010EA,Diode_SMD:D_SOD-323
+D1,LED GREEN,LED_THT:LED_D3.0mm
+R1,1k5,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+J1,HDMI_IN,HDMI_Switch:HDMI_TE_1747981-2
+J2,HDMI_OUT,HDMI_Switch:HDMI_TE_1747981-2
